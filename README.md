@@ -41,7 +41,7 @@ It's not just an assistant — it's an extension of your digital life.
 ## ⚡ Quick Start
 
 ``` bash
-git clone [https://github.com/shanibxd/athena](https://github.com/shanibxd/athena)
+git clone https://github.com/shanibxd/athena.git 
 cd athena
 pip install -r requirements.txt
 playwright install
