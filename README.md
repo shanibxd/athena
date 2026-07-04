@@ -40,9 +40,9 @@ It's not just an assistant — it's an extension of your digital life.
 
 ## ⚡ Quick Start
 
-```bash
-git clone [https://github.com/FatihMakes/Mark-XLVII.git](https://github.com/FatihMakes/Mark-XLVII.git)
-cd Mark-XLVII
+``` bash
+git clone [https://github.com/shanibxd/athena](https://github.com/shanibxd/athena)
+cd athena
 pip install -r requirements.txt
 playwright install
 python main.py
@@ -76,7 +76,7 @@ Engineered by a developer building a real-world JARVIS-style assistant.
 ⭐ **Star the repository to support the journey to Mark 100.**
 
 | Platform | Link |
-| --- | --- | |
+| --- | --- |      |
 | Instagram | [@shanib.xd](https://www.instagram.com/shanib.xd) |
 
 ```
