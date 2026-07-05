@@ -2,6 +2,7 @@
 ### The Ultimate Cross-Platform Personal AI Assistant — By Shanib
 
 
+
 A real-time voice AI that can hear, see, understand, and control your computer — on any OS. Supporting Windows, macOS, and Linux. Built with Gemini integration for maximum stability and performance, delivering zero subscriptions and total digital autonomy.
 
 ---
