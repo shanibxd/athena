@@ -1,5 +1,5 @@
 import subprocess
-import sys
+import sys 
 
 print("Installing requirements...")
 subprocess.run([sys.executable, "-m", "pip", "install", "-r", "requirements.txt"], check=True)
