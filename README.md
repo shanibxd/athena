@@ -1,5 +1,5 @@
 # 🤖 Athena   
-### The Ultimate Cross-Platform Personal AI Assistant — By Shanib
+### The Ultimate Cross-Platform Personal AI Assistant — By Shanib 
 
 
 
